@@ -29,7 +29,7 @@ classifiers=[
 
 dependencies = [
     "numpy<2.0",
-    "torch ~= 2.2.0",
+    "torch ~= 2.3.0",
     "pymcubes",
     "open3d",
     "tqdm",
